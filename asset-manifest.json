@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.05bed4bd.css",
+    "main.js": "/React-Project/static/js/main.9b26c439.js",
+    "static/js/453.3e5c68c2.chunk.js": "/React-Project/static/js/453.3e5c68c2.chunk.js",
+    "static/media/health.jpg": "/React-Project/static/media/health.d9e2d064fa541bfdee7f.jpg",
+    "static/media/partner.png": "/React-Project/static/media/partner.f0a1aed38e2dd4719a21.png",
+    "static/media/map.jpg": "/React-Project/static/media/map.8f5b2ad6ae40adae8097.jpg",
+    "static/media/us.webp": "/React-Project/static/media/us.ef188e58ba36a656791a.webp",
+    "static/media/doctor3.webp": "/React-Project/static/media/doctor3.5eb4d351bed87cb788c8.webp",
+    "static/media/logo.png": "/React-Project/static/media/logo.b48c82b08b6527aba5bb.png",
+    "static/media/doctor2.jpg": "/React-Project/static/media/doctor2.47522432b0fe2761f85c.jpg",
+    "static/media/doctor1.avif": "/React-Project/static/media/doctor1.bf8c2c036472256cdfe3.avif",
+    "static/media/slot.png": "/React-Project/static/media/slot.ee023e030ff313130c6b.png",
+    "static/media/appointment.png": "/React-Project/static/media/appointment.b365ee52249a69ef37e9.png",
+    "static/media/service.png": "/React-Project/static/media/service.4e1df50f1640cc6494d6.png",
+    "index.html": "/React-Project/index.html",
+    "main.05bed4bd.css.map": "/React-Project/static/css/main.05bed4bd.css.map",
+    "main.9b26c439.js.map": "/React-Project/static/js/main.9b26c439.js.map",
+    "453.3e5c68c2.chunk.js.map": "/React-Project/static/js/453.3e5c68c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05bed4bd.css",
+    "static/js/main.9b26c439.js"
+  ]
+}
